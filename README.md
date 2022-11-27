@@ -20,26 +20,24 @@
 <h2>📞 Контакты</h2>
 
 <p>
-  <a href="https://t.me/alexbelkov" target="blank">
+  <a href="https://t.me/alexbelkov/" target="blank">
     <img src="https://img.shields.io/badge/TG-gray?style=for-the-badge&logo=Telegram&logoColor=/"> 
   </a>
-  <a href="https://t.me/alexbelkov" target="_blank">
+  <a href="mailto:lexabelco2013@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Mail-gray?style=for-the-badge&logo=Mail.Ru&logoColor=/">
   </a>
-  <img src="https://img.shields.io/badge/VK-gray?style=for-the-badge&logo=VK&logoColor=/"> 
+  <a href="https://vk.com/belcov9/" target="blank">
+    <img src="https://img.shields.io/badge/VK-gray?style=for-the-badge&logo=VK&logoColor=/">
+  </a>
 </p>
 
 <h2>🥇Моя статистика</h2>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=skoroxodtwo&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=skoroxodtwo&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=skoroxodtwo&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoroxodtwo&layout=compact" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=skoroxodtwo&hide=contribs&show_icons=true">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=skoroxodtwo&hide=contribs&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=skoroxodtwo&layout=compact">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoroxodtwo&layout=compact" />
+  </a>
 </div>
-<!---
-SkoroXoDTwo/SkoroXoDTwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
