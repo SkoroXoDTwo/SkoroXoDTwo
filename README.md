@@ -8,14 +8,25 @@
 <h2>🛠 Мой стек: </h2>
 
 <p>
-<img src="https://img.shields.io/badge/Html-gray?style=for-the-badge&logo=HTML5&logoColor=red/">
-<img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=orange/"> 
-<img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=/">
-<img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=/">
-<img src="https://img.shields.io/badge/Sass-gray?style=for-the-badge&logo=Sass&logoColor=/">
-<img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=/">
-<img src="https://img.shields.io/badge/Webpack-gray?style=for-the-badge&logo=Webpack&logoColor=/">
-  
+  <img src="https://img.shields.io/badge/Html-gray?style=for-the-badge&logo=HTML5&logoColor=red/">
+  <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=orange/"> 
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=/">
+  <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=/">
+  <img src="https://img.shields.io/badge/Sass-gray?style=for-the-badge&logo=Sass&logoColor=/">
+  <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=/">
+  <img src="https://img.shields.io/badge/Webpack-gray?style=for-the-badge&logo=Webpack&logoColor=/">
+</p>
+
+<h2>📞 Контакты</h2>
+
+<p>
+  <a href="https://t.me/alexbelkov" target="blank">
+    <img src="https://img.shields.io/badge/TG-gray?style=for-the-badge&logo=Telegram&logoColor=/"> 
+  </a>
+  <a href="https://t.me/alexbelkov" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-gray?style=for-the-badge&logo=Mail.Ru&logoColor=/">
+  </a>
+  <img src="https://img.shields.io/badge/VK-gray?style=for-the-badge&logo=VK&logoColor=/"> 
 </p>
 
 <h2>🥇Моя статистика</h2>
