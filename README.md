@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=orange/"> 
   <img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=/">
   <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=/">
+  <img src="https://img.shields.io/badge/Redux-gray?style=for-the-badge&logo=Redux&logoColor=/">
   <img src="https://img.shields.io/badge/Sass-gray?style=for-the-badge&logo=Sass&logoColor=/">
   <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=/">
   <img src="https://img.shields.io/badge/Webpack-gray?style=for-the-badge&logo=Webpack&logoColor=/">
