@@ -1,11 +1,11 @@
-<h1>Привет, меня зовут Алексей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Привет, меня зовут Алексей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 
 - 👋 Я начинающий фронтенд разработчик
 - ✒ Получаю обратную связь от опытных менторов
 - 🎓 Изучаю новые технологии
 - 📖 Стараюсь писать чистый, читабельный код
 
-<h2>🛠 Мой стек: </h2>
+## 🛠 Мой стек:
 
 <p>
   <img src="https://img.shields.io/badge/Html-gray?style=for-the-badge&logo=HTML5&logoColor=red/">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Webpack-gray?style=for-the-badge&logo=Webpack&logoColor=/">
 </p>
 
-<h2>📞 Контакты</h2>
+## 📞 Контакты
 
 <p>
   <a href="https://t.me/alexbelkov/" target="blank">
@@ -32,7 +32,8 @@
   </a>
 </p>
 
-<h2>🥇Моя статистика</h2>
+## :trophy: Моя статистика:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/SkoroXoDTwo/badges/large)](https://www.codewars.com/users/SkoroXoDTwo)
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=skoroxodtwo&hide=contribs&show_icons=true">
